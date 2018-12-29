@@ -1,0 +1,3 @@
+	Database MySQL	User MySQL	Host MySQL	Penggunaan Disk, MB
+	
+	u415500526_jam	u415500526_ars	mysql.idhostinger.com	0.02
